@@ -2,10 +2,11 @@
 <h3 align="center">🚀 A Passionate DevOps Engineer | Cloud Explorer | </h3>
 
 ---
+  
 
-🏆 *GitHub Stats Highlights*  
+### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushmeta1&theme=radical&row=2&column=4" alt="Sushmeta1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushmeta1&theme=radical&no-frame=true&column=4&title=Commits,Repositories,PullRequest,Followers&margin-w=15" />
 </p>
 
 ---
