@@ -16,7 +16,6 @@
 - 🌱 Currently exploring *Cloud Native DevOps, **CI/CD Pipelines, and **IaC with Terraform*
 - 🤝 Looking to collaborate on *open-source DevOps & cloud infrastructure projects*
 - 🧠 Always curious about *automation, **security, and **site reliability engineering*
-- 💬 Ask me anything about *DevOps, **AWS, **Linux, or **Docker*
 - 🌍 Let’s build things that scale — together!
 
 ---
