@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushmeta Negi</h1>
-<h3 align="center">🚀 A Passionate DevOps Engineer | Cloud Explorer | </h3>
+
 
 ---
   
