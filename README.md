@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sushmeta Negi</h1>
-<h3 align="center">Aspiring Software Engineer| DevOps Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Sushmeta%20Negi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h2 align="center">💻 B.Tech CSE Student | UPES Dehradun</h2>
+
+<p align="center">
+Passionate about Software Development, DSA, Frontend Development & DevOps 🚀
+</p>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sushmetanegi@gmail.com">
