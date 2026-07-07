@@ -23,7 +23,7 @@ I'm a **Computer Science Engineering student** passionate about **Full-Stack Dev
 - 💻 Solving **Data Structures & Algorithms** 
 - 🚀 Interested in **DevOps, Cloud & Backend Development**
 - 💬 Ask me about **Git, Linux, React, Node.js, C++**
-- 📫 Email: **shwetapant1037@gmail.com**
+- 📫 Email: **sushmetanegi@gmail.com**
 
 ---
 
@@ -75,13 +75,13 @@ I'm a **Computer Science Engineering student** passionate about **Full-Stack Dev
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shweta12-pant&show_icons=true&theme=github&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushmeta1&show_icons=true&theme=github&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta12-pant&layout=compact&theme=github&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmeta1&layout=compact&theme=github&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta12-pant&theme=github&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushmeta1&theme=github&hide_border=true"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ I'm a **Computer Science Engineering student** passionate about **Full-Stack Dev
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta12-pant&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushmeta1&theme=github-compact"/>
 </p>
 
 ---
