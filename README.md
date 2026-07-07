@@ -81,13 +81,6 @@ I'm a **Computer Science Engineering student** passionate about **Full-Stack Dev
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sushmeta1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushmeta1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Sushmeta1&theme=tokyonight&hide_border=true"/>
