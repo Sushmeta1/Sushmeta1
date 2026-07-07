@@ -88,7 +88,9 @@ I'm a **Computer Science Engineering student** passionate about **Full-Stack Dev
 
 # 📈 GitHub Activity Graph
 
-[![Sushmeta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushmeta1&theme=tokyo-night)](https://github.com/Mudita-Singh)
+## 📈 GitHub Activity
+
+[![Sushmeta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushmeta1&theme=github)](https://github.com/Sushmeta1)
 
 ---
 
